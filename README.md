@@ -5,3 +5,7 @@ This is not the full version.
 Programmed by Saviru Kashmira
 Made in Sri Lanka
 ==================================================
+
+* No install required. Just download and use !
+
+
