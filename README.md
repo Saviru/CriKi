@@ -9,7 +9,6 @@ Download Now - https://github.com/Saviru/CriKi/raw/main/Criki.exe
 =============================
 
 Programmed by Saviru Kashmira.
-Made in Sri Lanka.
 
 =============================
 
